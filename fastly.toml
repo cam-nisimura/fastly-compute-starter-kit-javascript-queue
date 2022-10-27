@@ -33,6 +33,9 @@ name = "Queuing / Waiting room (JS)"
   [setup.backends]
 
     [setup.backends.protected_content]
+      description = "OnitsukaTiger STG Server"
+      address = "mcstaging.onitukatiger.com"
+      port = 443
 
     [setup.backends.upstash]
 

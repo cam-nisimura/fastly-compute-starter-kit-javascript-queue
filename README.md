@@ -47,3 +47,5 @@ On subsequent requests, when a JWT is supplied, we verify the signature and extr
 ## Security issues
 
 Please see our [SECURITY.md](SECURITY.md) for guidance on reporting security-related issues.
+
+[![Deploy to Fastly](https://deploy.edgecompute.app/button)](https://deploy.edgecompute.app/deploy)
